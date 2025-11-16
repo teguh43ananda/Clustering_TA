@@ -1,0 +1,13 @@
+trial,step_id,frame_start,frame_end,T_step,T_step_unit,L_step_m,v_walk_step
+Kinan_Jalan54_clustered_torso,1,11,21,10.0,frames,0.2619112260778571,
+Kinan_Jalan54_clustered_torso,2,21,29,8.0,frames,0.24385072261740812,
+Kinan_Jalan54_clustered_torso,3,29,35,6.0,frames,0.27983373496026864,
+Kinan_Jalan54_clustered_torso,4,35,49,14.0,frames,0.62146502446062,
+Kinan_Jalan54_clustered_torso,5,49,57,8.0,frames,0.34436715840134763,
+Kinan_Jalan54_clustered_torso,6,57,64,7.0,frames,0.42486525070277703,
+Kinan_Jalan54_clustered_torso,7,64,71,7.0,frames,0.24461303355973732,
+Kinan_Jalan54_clustered_torso,8,71,81,10.0,frames,0.23810350765355578,
+Kinan_Jalan54_clustered_torso,9,81,87,6.0,frames,0.26058512084048974,
+Kinan_Jalan54_clustered_torso,10,87,92,5.0,frames,0.13786565428065958,
+Kinan_Jalan54_clustered_torso,11,92,99,7.0,frames,0.33019847868362473,
+Kinan_Jalan54_clustered_torso,12,99,109,10.0,frames,0.5203076595159171,

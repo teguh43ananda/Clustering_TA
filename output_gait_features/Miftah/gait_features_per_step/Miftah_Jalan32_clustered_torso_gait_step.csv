@@ -1,0 +1,3 @@
+trial,step_id,frame_start,frame_end,T_step,T_step_unit,L_step_m,v_walk_step
+Miftah_Jalan32_clustered_torso,1,6,13,7.0,frames,0.2068154519535872,
+Miftah_Jalan32_clustered_torso,2,13,19,6.0,frames,0.10780957609275639,

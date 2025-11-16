@@ -1,0 +1,12 @@
+trial,step_id,frame_start,frame_end,T_step,T_step_unit,L_step_m,v_walk_step
+Miftah_Jalan6_clustered_torso,1,29,44,15.0,frames,0.42450873950625767,
+Miftah_Jalan6_clustered_torso,2,44,50,6.0,frames,0.2127887902342307,
+Miftah_Jalan6_clustered_torso,3,50,56,6.0,frames,0.16949133724913706,
+Miftah_Jalan6_clustered_torso,4,56,63,7.0,frames,0.24877923322810738,
+Miftah_Jalan6_clustered_torso,5,63,71,8.0,frames,0.39410208655241136,
+Miftah_Jalan6_clustered_torso,6,71,76,5.0,frames,0.20227989424139556,
+Miftah_Jalan6_clustered_torso,7,76,83,7.0,frames,0.3502270251611121,
+Miftah_Jalan6_clustered_torso,8,83,94,11.0,frames,0.34493581774755283,
+Miftah_Jalan6_clustered_torso,9,94,101,7.0,frames,0.18760551263713685,
+Miftah_Jalan6_clustered_torso,10,101,108,7.0,frames,0.20827668793054557,
+Miftah_Jalan6_clustered_torso,11,108,118,10.0,frames,0.3135018870081285,

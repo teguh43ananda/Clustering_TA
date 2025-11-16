@@ -1,0 +1,11 @@
+trial,step_id,frame_start,frame_end,T_step,T_step_unit,L_step_m,v_walk_step
+Afi_Jalan64_clustered_torso,1,6,15,9.0,frames,0.27545210374405105,
+Afi_Jalan64_clustered_torso,2,15,22,7.0,frames,0.2798733800100182,
+Afi_Jalan64_clustered_torso,3,22,29,7.0,frames,0.2731756623709609,
+Afi_Jalan64_clustered_torso,4,29,34,5.0,frames,0.245680108193055,
+Afi_Jalan64_clustered_torso,5,34,39,5.0,frames,0.2573122412949693,
+Afi_Jalan64_clustered_torso,6,39,44,5.0,frames,0.1448047464353351,
+Afi_Jalan64_clustered_torso,7,44,50,6.0,frames,0.18746375511406993,
+Afi_Jalan64_clustered_torso,8,50,58,8.0,frames,0.32198535771495784,
+Afi_Jalan64_clustered_torso,9,58,64,6.0,frames,0.19538685524507027,
+Afi_Jalan64_clustered_torso,10,64,71,7.0,frames,0.3447849688224464,

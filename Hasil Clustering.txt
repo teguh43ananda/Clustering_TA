@@ -1,0 +1,49 @@
+Berikut ini adalah hasil dari beberapa skema eps dengan min_samples = 5 
+
+1. eps = 0.26 hasilnya sebagai berikut : 
+
+coverage_pct	max_gap_frames	hold_ratio_pct	dx_mean	dy_mean	dz_mean	n_frames
+mean	min	mean	max	mean	mean	mean	mean	sum
+subject									
+Afi	94.610212	73.529412	2.916667	13	28.139267	0.087277	0.076850	0.121173	10093
+Kinan	94.871202	82.142857	3.291667	13	24.658012	0.068776	0.055339	0.113961	10096
+Miftah	95.573501	85.185185	2.902778	14	27.956524	0.071992	0.059759	0.116955	10605
+
+
+3. eps = 0.28 hasilnya sebagai berikut : 
+
+coverage_pct	max_gap_frames	hold_ratio_pct	dx_mean	dy_mean	dz_mean	n_frames
+mean	min	mean	max	mean	mean	mean	mean	sum
+subject									
+Afi	94.800918	73.529412	2.833333	13	27.530805	0.087034	0.076988	0.121956	10093
+Kinan	95.223885	82.142857	3.166667	13	23.926238	0.069469	0.055347	0.114098	10096
+Miftah	95.946324	85.185185	2.736111	9	26.909571	0.072066	0.059505	0.115753	10605
+
+4. eps = 0.30 hasilnya sebagai berikut : 
+
+coverage_pct	max_gap_frames	hold_ratio_pct	dx_mean	dy_mean	dz_mean	n_frames
+mean	min	mean	max	mean	mean	mean	mean	sum
+subject									
+Afi	95.195108	77.941176	2.625000	12	27.316500	0.087850	0.077414	0.122540	10093
+Kinan	95.510409	82.142857	2.986111	13	23.105420	0.069383	0.055924	0.114278	10096
+Miftah	96.144717	85.185185	2.652778	9	26.284482	0.072225	0.059519	0.116756	10605
+
+
+5. eps = 0.32 hasilnya sebagai berikut : 
+
+coverage_pct	max_gap_frames	hold_ratio_pct	dx_mean	dy_mean	dz_mean	n_frames
+mean	min	mean	max	mean	mean	mean	mean	sum
+subject									
+Afi	95.470451	82.352941	2.486111	9	27.057457	0.088266	0.077628	0.122686	10093
+Kinan	95.685962	82.142857	2.819444	11	22.595274	0.068829	0.055839	0.111888	10096
+Miftah	96.485210	85.185185	2.500000	9	25.894691	0.072738	0.059845	0.115833	10605
+
+
+6. eps =  hasilnya sebagai berikut : 
+
+coverage_pct	max_gap_frames	hold_ratio_pct	dx_mean	dy_mean	dz_mean	n_frames
+mean	min	mean	max	mean	mean	mean	mean	sum
+subject									
+Afi	95.531910	85.454545	2.416667	9	27.010809	0.088546	0.077787	0.122350	10093
+Kinan	95.726353	82.142857	2.819444	11	22.395864	0.068591	0.056236	0.112989	10096
+Miftah	96.681289	85.185185	2.416667	9	25.784017	0.073030	0.060322	0.115979	10605
