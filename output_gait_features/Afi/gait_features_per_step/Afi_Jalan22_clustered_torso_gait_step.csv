@@ -1,6 +1,0 @@
-trial,step_id,frame_start,frame_end,T_step,T_step_unit,L_step_m,v_walk_step
-Afi_Jalan22_clustered_torso,1,32,42,10.0,frames,0.7208120264865844,
-Afi_Jalan22_clustered_torso,2,42,47,5.0,frames,0.35587311191098536,
-Afi_Jalan22_clustered_torso,3,47,53,6.0,frames,0.3646534738442728,
-Afi_Jalan22_clustered_torso,4,53,65,12.0,frames,0.5527557979200145,
-Afi_Jalan22_clustered_torso,5,65,73,8.0,frames,0.2395473968012933,

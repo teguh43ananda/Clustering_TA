@@ -1,5 +1,0 @@
-trial,step_id,frame_start,frame_end,T_step,T_step_unit,L_step_m,v_walk_step
-Kinan_Jalan48_clustered_torso,1,20,28,8.0,frames,0.2405562281724844,
-Kinan_Jalan48_clustered_torso,2,28,34,6.0,frames,0.2302571891120686,
-Kinan_Jalan48_clustered_torso,3,34,39,5.0,frames,0.2139337711736185,
-Kinan_Jalan48_clustered_torso,4,39,46,7.0,frames,0.38105217377388767,

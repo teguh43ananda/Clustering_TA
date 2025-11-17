@@ -1,8 +1,0 @@
-trial,step_id,frame_start,frame_end,T_step,T_step_unit,L_step_m,v_walk_step
-Afi_Jalan45_clustered_torso,1,11,21,10.0,frames,0.16148848354036793,
-Afi_Jalan45_clustered_torso,2,21,30,9.0,frames,0.3082655206457245,
-Afi_Jalan45_clustered_torso,3,30,41,11.0,frames,0.44324465371259286,
-Afi_Jalan45_clustered_torso,4,41,48,7.0,frames,0.2169912769299582,
-Afi_Jalan45_clustered_torso,5,48,61,13.0,frames,0.5434347827383174,
-Afi_Jalan45_clustered_torso,6,61,67,6.0,frames,0.308186184246041,
-Afi_Jalan45_clustered_torso,7,67,73,6.0,frames,0.2617143066036529,
