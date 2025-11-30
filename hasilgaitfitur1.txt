@@ -1,0 +1,38 @@
+=== SANITY CHECK GLOBAL ===
+Total trial                : 216
+Step count < 2             : 1
+Durasi_walk <= 0 (detik)   : 0
+Distance_2d < 0.2 m        : 5
+Speed > 3.0 m/s            : 7
+Speed < 0.1 m/s (hampir diam): 33
+
+=== SANITY CHECK PER SUBJECT ===
+
+-- Afi --
+  Total trial           : 72
+  Step count < 2        : 0
+  Durasi_walk <= 0      : 0
+  Distance_2d < 0.2 m   : 4
+  Speed > 3.0 m/s       : 4
+
+-- Kinan --
+  Total trial           : 72
+  Step count < 2        : 0
+  Durasi_walk <= 0      : 0
+  Distance_2d < 0.2 m   : 0
+  Speed > 3.0 m/s       : 0
+
+-- Miftah --
+...
+  Step count < 2        : 1
+  Durasi_walk <= 0      : 0
+  Distance_2d < 0.2 m   : 1
+  Speed > 3.0 m/s       : 3
+
+
+step_count	mean_step_time	step_time_std	...	step_length_m	duration_walk_sec	distance_2d_m
+mean	std	min	max	mean	std	min	max	mean	std	...	min	max	mean	std	min	max	mean	std	min	max
+subject																					
+Afi	8.611111	5.572962	2	26	0.640239	0.432440	0.277648	3.849878	0.524061	0.366929	...	0.016241	4.584173	4.910940	4.191356	0.331384	16.689015	1.692213	1.124357	0.087864	4.584173
+Kinan	9.013889	4.570244	3	27	0.640795	0.271939	0.274138	1.781407	0.640947	0.378546	...	0.018205	2.045860	4.981714	3.426727	1.048218	17.815456	1.980562	0.998385	0.294696	4.135856
+Miftah	9.027778	5.202849	1	27	0.637584	0.230223	0.275882	1.470518	0.597474	0.359306	...	0.002914	2.941452	5.410872	4.159560	0.603805	18.758836	2.096936	1.303690	0.037880	5.882904
